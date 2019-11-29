@@ -1,4 +1,4 @@
-# DGIST_Service project
+# DGIST_Danguri
 
 > by LikeLion at DGIST
 
