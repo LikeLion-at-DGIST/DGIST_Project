@@ -17,7 +17,7 @@ class BusTime extends React.Component {
 
   render() {
     return (
-      <div className={BusTime}>
+      <div className={BusTime} className="pos_center">
         <h1>
           {this.state.d.getHours()}시 {this.state.d.getMinutes()}분{" "}
           {this.state.d.getSeconds()}초 입니다.

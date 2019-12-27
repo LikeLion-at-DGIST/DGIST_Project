@@ -1,6 +1,11 @@
-.pos_center {
+.nav {
   text-align: center;
   width: 70%;
   height: 70%;
   margin: 40px auto;
+}
+
+.nav__elem {
+  margin-right: 50px;
+  margin-left: 50px;
 }
